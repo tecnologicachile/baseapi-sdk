@@ -365,8 +365,7 @@ No. BaseAPI.cl es un servicio independiente que automatiza el portal público de
 ## Documentación completa
 
 - **Página oficial:** [baseapi.cl](https://baseapi.cl)
-- **Docs:** [docs.baseapi.cl](https://docs.baseapi.cl)
-- **API Reference (Scalar):** [api.baseapi.cl/docs](https://api.baseapi.cl/docs)
+- **Documentación de la API:** [api.baseapi.cl/docs/client](https://api.baseapi.cl/docs/client)
 - **Código fuente:** [github.com/tecnologicachile/baseapi-sdk](https://github.com/tecnologicachile/baseapi-sdk)
 
 ## Licencia
