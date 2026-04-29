@@ -1,6 +1,6 @@
 {
   "name": "baseapi-cl",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Official TypeScript SDK for BaseAPI.cl — Chile SII automation API",
   "main": "./dist/cjs/index.js",
   "module": "./dist/esm/index.js",

@@ -64,7 +64,7 @@ export class BaseAPIClient {
           headers: {
             'X-API-Key': this.apiKey,
             'Content-Type': 'application/json',
-            'User-Agent': 'baseapi-cl-sdk/0.1.0',
+            'User-Agent': 'baseapi-cl-sdk/0.2.0',
           },
           body: options?.body ? JSON.stringify(options.body) : undefined,
           signal: controller.signal,
