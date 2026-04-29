@@ -4,7 +4,6 @@
 [![npm downloads](https://img.shields.io/npm/dm/baseapi-cl.svg?style=flat-square)](https://www.npmjs.com/package/baseapi-cl)
 [![bundle size](https://img.shields.io/bundlephobia/minzip/baseapi-cl?style=flat-square)](https://bundlephobia.com/package/baseapi-cl)
 [![types included](https://img.shields.io/npm/types/baseapi-cl?style=flat-square)](https://www.npmjs.com/package/baseapi-cl)
-[![license](https://img.shields.io/npm/l/baseapi-cl?style=flat-square)](./LICENSE)
 
 **SDK oficial en TypeScript para [BaseAPI.cl](https://baseapi.cl)** — la API de automatización del **Servicio de Impuestos Internos (SII) de Chile**. Emite facturas electrónicas (DTE), boletas de honorarios (BHE), boletas de terceros (BTE), consulta el Registro de Compras y Ventas (RCV), descarga la carpeta tributaria, declaraciones juradas (DJ), Formulario 22 y más, con una sola línea de código desde Node.js.
 
@@ -370,4 +369,4 @@ No. BaseAPI.cl es un servicio independiente que automatiza el portal público de
 
 ## Licencia
 
-[MIT](./LICENSE) — Tecnológica Chile SpA
+Propietario — Copyright © Tecnológica Chile SpA. Todos los derechos reservados. El uso de este SDK requiere una API key activa de [BaseAPI.cl](https://baseapi.cl).

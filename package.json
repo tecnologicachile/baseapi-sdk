@@ -67,7 +67,7 @@
     "tributario"
   ],
   "author": "Tecnológica Chile <contacto@tecnologicachile.cl>",
-  "license": "MIT",
+  "license": "UNLICENSED",
   "repository": {
     "type": "git",
     "url": "https://github.com/tecnologicachile/baseapi-sdk.git"
